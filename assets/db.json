@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "mangesh",
+      "password": "aa",
+      "email": "tanishmokal2021.elect@mmcoe.edu.in",
+      "fullname": "mangesh ",
+      "id": 1
+    },
+    {
+      "username": "mangesh",
+      "password": "aa",
+      "email": "tanishmokal2021.elect@mmcoe.edu.in",
+      "fullname": "mangesh patil",
+      "id": 2
+    },
+    {
+      "username": "mangesh",
+      "password": "aa",
+      "email": "tanishmokal2021.elect@mmcoe.edu.in",
+      "fullname": "mangesh patil",
+      "id": 3
+    },
+    {
+      "username": "mangesh",
+      "password": "aa",
+      "email": "tanishmokal2021.elect@mmcoe.edu.in",
+      "fullname": "mangesh patil",
+      "id": 4
+    },
+    {
+      "username": "mangesh",
+      "password": "aa",
+      "email": "tanishmokal2021.elect@mmcoe.edu.in",
+      "fullname": "mangesh patil",
+      "id": 5
+    }
+  ]
+}
